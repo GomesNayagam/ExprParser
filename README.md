@@ -1,2 +1,2 @@
 # ExprParser
-Simple Expression parser and generator to query using LALR Irony toolkit
+Simple Expression to Where Query(Cassandra etc) using LALR parser(Irony) toolkit
